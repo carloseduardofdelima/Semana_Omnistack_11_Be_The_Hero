@@ -1,4 +1,4 @@
-![Be The Hero](/relative/path/to/img.jpg?raw=true "Optional Title")
+![logo](https://raw.github.com/carloseduardofdelima/Semana_Omnistack_11_Be_The_Hero/master/be-the-hero.png)
 
 # Be The Hero :rocket:
 
