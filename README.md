@@ -1,3 +1,5 @@
+![Be The Hero](/relative/path/to/img.jpg?raw=true "Optional Title")
+
 # Be The Hero :rocket:
 
 Um app com a proposta de facilicar a comunicação entre ONGs precisando de ajuda e pessoas que estão dispostas a dar um auxilio.
